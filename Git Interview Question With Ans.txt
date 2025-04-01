@@ -1,6 +1,6 @@
 ---------------- Git Interview Question With Ans ---------------------------- 
 Basic GIT Interview Questions
-1.  What is a version control system (VCS)?
+1.  What is a version control system (VCS)??
 2.  What is a git repository?
 3.  What does git clone do?
 4.  What does the command git config do?
